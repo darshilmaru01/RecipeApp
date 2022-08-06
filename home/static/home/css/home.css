@@ -2,14 +2,14 @@
     background-color: white !important;
 }
 .navbar-light .navbar-brand {
-    color: #F23005 !important;
+    color: #AFEEEE!important;
     font-family: 'Lobster', cursive;
 }
 .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .show > .nav-link {
- color: #F23005 !important ;
+ color: #AFEEEE!important ;
 }
 .form-control {
-border: 1px solid #F23005;
+border: 1px solid #AFEEEE;
 }
 .container {
     position: relative;
@@ -17,8 +17,8 @@ border: 1px solid #F23005;
 }
 
 .btn-outline-success, .btn-outline-success:focus, .btn-outline-success:active, .btn-outline-success:hover {
-    color: #F23005!important ;
-    border-color: #F23005 !important;
+    color: #AFEEEE!important ;
+    border-color: #AFEEEE!important;
 
 }
 .card-img-top {
@@ -28,7 +28,7 @@ border: 1px solid #F23005;
 }
 
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
-    background-color: #F23005 !important;
+    background-color: #AFEEEE!important;
 }
 #bs:hover, #bt:hover{
 background-color:rgb(235, 235, 235) ;
@@ -42,7 +42,7 @@ background-color:rgb(235, 235, 235) ;
 
 #img-txt{
 font-family: 'Playfair Display', serif;
-color:#F23005
+color:#AFEEEE
 }
 .figure {
     position: relative;
